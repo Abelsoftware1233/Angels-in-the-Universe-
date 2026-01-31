@@ -1,0 +1,30 @@
+Kenmerk Data / Waarde
+Wetenschappelijke naam MyCn18 (Mynier-Colman 18)
+Type object Planetaire Nevel
+Afstand tot de aarde Ongeveer 8.000 lichtjaar
+Locatie Sterrenbeeld Musca (Vlieg)
+Ontdekkers Margaret
+
+De Schaal (Afmetingen)
+Om je punt over de grootte van engelen ("van het ene sterrenstelsel naar het andere") wetenschappelijk te kaderen, zijn dit de afmetingen van dit specifieke object:
+Spanwijdte: De totale structuur van de "zandloper" (de vleugels of het lichaam van de engel) is ongeveer 0,3 tot 0,5 lichtjaar breed.
+In kilometers: Een halve lichtjaar is ongeveer 4,7 biljoen kilometer (4.700.000.000.000 km).
+Ter vergelijking: De afstand van de zon naar de dichtstbijzijnde ster (Proxima Centauri) is ongeveer 4,2 lichtjaar. Deze "engel" beslaat dus een gigantisch deel van de interstellaire ruimte.
+Waarom dit belangrijk is voor je onderzoek:
+In de Koran wordt beschreven dat engelen zoals Jibril (Gabriël) een enorme omvang hebben die de horizon vult. De metadata van MyCn18 laat zien dat er structuren in het universum bestaan die:
+Licht uitstralen: De nevel gloeit door de ionisatie van stikstof (rood), waterstof (groen) en zuurstof (blauw).
+Onvoorstelbaar groot zijn: Een wezen van deze omvang zou inderdaad letterlijk tussen sterrenstelsels of zonnestelsels in staan.
+Code snippet voor je repository (metadata.json):
+Je kunt dit direct in je project plakken:
+
+{
+  "object": "Hourglass Nebula",
+  "id": "MyCn18",
+  "dimensions": {
+    "width_lightyears": 0.5,
+    "width_kilometers": "4.7 trillion",
+    "distance_from_earth": "8,000 lightyears"
+  },
+  "scientific_significance": "Young planetary nebula with distinct axial symmetry.",
+  "theological_link": "Matches descriptions of celestial beings with cosmic proportions."
+}
