@@ -1,0 +1,24 @@
+{
+  "repository": "echo AI",
+  "research_title": "Celestial Entities and Cosmic Metadata",
+  "entities": [
+    {
+      "name": "Celestial Angel (S106)",
+      "span_ly": 2.0,
+      "distance_ly": 2000,
+      "description": "Bipolar emission nebula resembling winged being."
+    },
+    {
+      "name": "Pillars of Creation",
+      "height_ly": 5.0,
+      "distance_ly": 7000,
+      "description": "Massive gas pillars representing rising celestial figures."
+    },
+    {
+      "name": "Hand of God",
+      "span_ly": 150.0,
+      "distance_ly": 17000,
+      "description": "X-ray nebula shaped like a cosmic reaching hand."
+    }
+  ]
+}
