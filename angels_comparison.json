@@ -1,0 +1,36 @@
+{
+  "project": "echo AI",
+  "subject": "Comparison of Angels in Quran and Bible",
+  "data": [
+    {
+      "category": "Substantie",
+      "quran": "Geschapen uit Nur (Licht).",
+      "bible": "Geassocieerd met vlammend vuur en schittering.",
+      "similarity_index": "Hoog"
+    },
+    {
+      "category": "Omvang",
+      "quran": "Beschreven als wezens die de horizon vullen (bijv. Jibril).",
+      "bible": "Kosmische schaal, voeten op land en zee (Openbaring).",
+      "similarity_index": "Hoog"
+    },
+    {
+      "category": "Vleugels",
+      "quran": "Variërend van 2 tot 600 vleugels als teken van macht.",
+      "bible": "Serafijnen en Cherubijnen met 6 vleugels.",
+      "similarity_index": "Medium-Hoog"
+    },
+    {
+      "category": "Boodschapper",
+      "quran": "Jibril (Gabriel) brengt de openbaring naar de profeten.",
+      "bible": "Gabriel brengt de boodschap aan Maria en anderen.",
+      "name_match": "Gabriel / Jibril"
+    },
+    {
+      "category": "Waakzaamheid",
+      "quran": "Bewakers (Raquib & Atid) die alles zien en opschrijven.",
+      "bible": "Hemelse wezens 'vol ogen' (Ezechiël) die alles waarnemen.",
+      "visual_link": "Hourglass Nebula / Oog-vorm"
+    }
+  ]
+}
