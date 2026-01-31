@@ -37,3 +37,12 @@ De repository bevat Python-scripts en JSON-datasets om deze metadata gestructure
 2. Voer het script uit om de vergelijkingstabel te genereren:
    ```bash
    python display_angels.py
+
+📊 Wetenschappelijke Schaal
+De objecten in dit onderzoek beslaan vaak meerdere lichtjaren. Ter referentie: één lichtjaar is ongeveer 9,46 biljoen kilometer. Dit onderstreept de beschrijvingen van de enorme omvang van hemelse wezens die de horizon van de mensheid overstijgen.
+
+### Visuele ondersteuning
+Om de schaal van deze "engelen" in je documentatie echt duidelijk te maken, is het handig om te zien hoe klein ons zonnestelsel is vergeleken met deze nevels.
+
+
+
